@@ -941,7 +941,7 @@ fun AIStudyPlanner() {
         )
     }
 
-    var userInput by remember { mutableStateOf("") }
+    var userInput by remember { mutableStateOf( "") }
     var aiResponse by remember { mutableStateOf("") }
     var isLoading by remember { mutableStateOf(false) }
 
