@@ -6,5 +6,5 @@ Created By-
 
 1. Arihant Pandey (Team Leader)
 2. Aryan Sharma
-3. Bibek Pedenti
+3. Bibek Kumar Pedenti
 4. Diya Ahuja
